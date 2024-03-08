@@ -14,5 +14,5 @@ Maker Media GmbH
 
 Hier gibt es die Schnitt-/3D-Druckdateien für den Kamerahalter.
 
-Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe 2/24 ab Seite 34]([https://www.heise.de/select/make/2024/2/2403907130519343943)**.
+Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe 2/24 ab Seite 34](https://www.heise.de/select/make/2024/2/2403907130519343943)**.
 
