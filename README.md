@@ -12,7 +12,7 @@ Maker Media GmbH
 
 ![Aufmacherbild aus dem Heft](./Aufmacher_github.JPG)
 
-Hier gibt es die Schnitt-/3D-Druckdateien für den Kamerahalter.
+Hier gibt es die Schnitt-/3D-Druckdateien für den Sensorhalter und die Testdateien.
 
 Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe 2/24 ab Seite 34](https://www.heise.de/select/make/2024/2/2403907130519343943)**.
 
