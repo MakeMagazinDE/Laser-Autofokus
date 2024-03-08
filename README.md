@@ -8,11 +8,11 @@ Maker Media GmbH
 
 ## Autofokus in Lasercutter mit Ruida-Controller nachrüsten
 
-**Ob man nun eine Sperrholzplatte bis zum letzten Millimeter ausnutzen, ein bereits bearbeitetes Teil um Gravuren und/oder zusätzliche Schnitte ergänzen oder winzige Teile mit dem Laser beschriften möchte, es kommt auf Präzision an. Hier hilft eine Kamera über dem Schneidetisch, deren Bild in der Lasercut-Software Lightburn eingeblendet werden kann. Damit schieben Sie dann Schnittlinen und Gravuren millimetergenau aufs Material, sodass Sie sogar Zahnstocher beschriften können.**
+**Holz, Kunststoff, Stein oder Pappe, das alles schneidet ein Lasercutter nur dann wirklich gut, wenn der Laserstrahl auch wirklich auf dem Material fokussiert ist. In diesem Projekt rüsten wir preiswerte Lasercutter mit einem Autofokus nach, der immer alles auf den Punkt bringt.**
 
 ![Aufmacherbild aus dem Heft](./Aufmacher_github.JPG)
 
 Hier gibt es die Schnitt-/3D-Druckdateien für den Kamerahalter.
 
-Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe 1/24 ab Seite 54](https://www.heise.de/select/make/2024/1/2326909565517009394)**.
+Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe 2/24 ab Seite 34]([https://www.heise.de/select/make/2024/2/2403907130519343943)]**.
 
